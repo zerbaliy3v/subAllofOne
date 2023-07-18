@@ -7,6 +7,6 @@
 <h2> 
   Inistall
 </h2>
-apt install amass subfinder assetfinder
-chmod +x subAllofOne
-./subAllofOne
+<p>apt install amass subfinder assetfinder</p> 
+<p>chmod +x subAllofOne</p>
+<p>./subAllofOne</p>
