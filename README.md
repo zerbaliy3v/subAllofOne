@@ -5,5 +5,10 @@
  Subdomain Finder All One Tool
 </h1>
 <h2> 
-  Comming soon ...
+  Inistall
 </h2>
+<p aling="center">
+  apt install amass subfinder assetfinder
+  chmod +x subAllofOne
+  ./subAllofOne
+</p>
