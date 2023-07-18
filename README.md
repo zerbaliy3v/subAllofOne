@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="border-radius 10px;">
   <img src="./subimg.png" alt="light bulb icon">
 </p>
 <h1 aling="center"> 
