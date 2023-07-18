@@ -5,7 +5,7 @@
  Subdomain Finder All One Tool
 </h1>
 <h2> 
-  Inistall
+  installing linux
 </h2>
 <p>apt install amass subfinder assetfinder</p> 
 <p>chmod +x subAllofOne</p>
