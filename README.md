@@ -10,4 +10,4 @@
 <p>apt install amass subfinder assetfinder</p> 
 <p>chmod +x SubAllofOne.sh</p>
 <p>./SubAllofOne.sh</p>
-<p>sudo cp SubAllofOne /usr/bin/ </p>
+<p>sudo cp SubAllofOne.sh /usr/bin/subAllofOne </p>
