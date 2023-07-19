@@ -8,5 +8,6 @@
   installing linux
 </h2>
 <p>apt install amass subfinder assetfinder</p> 
-<p>chmod +x subAllofOne</p>
-<p>./subAllofOne</p>
+<p>chmod +x SubAllofOne.sh</p>
+<p>./SubAllofOne.sh</p>
+<p>sudo cp SubAllofOne /usr/bin/ </p>
