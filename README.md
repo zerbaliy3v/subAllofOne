@@ -1,5 +1,5 @@
 <p align="center" style="border-radius 10px;">
-  <img src="./subimg.png" alt="light bulb icon">
+  <img src="./subimg1.png" alt="light bulb icon">
 </p>
 <h1 aling="center"> 
  Subdomain Finder All One Tool
