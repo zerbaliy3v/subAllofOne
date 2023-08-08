@@ -2,12 +2,13 @@
   <img src="./subimg1.png" alt="light bulb icon">
 </p>
 <h1 aling="center"> 
- Subdomain Finder All One Tool
+ Subdomain Finder All Of One Tool
 </h1>
 
 
 ### installing linux
-    apt install amass subfinder assetfinder</p> 
-    chmod +x SubAllofOne.sh</p>
-    ./SubAllofOne.sh</p>
+    apt install amass subfinder assetfinder
+    chmod +x SubAllofOne.sh
+    ./SubAllofOne.sh
     sudo cp SubAllofOne.sh /usr/bin/subAllofOne
+    subAllofOne
