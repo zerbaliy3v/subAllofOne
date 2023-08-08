@@ -58,5 +58,3 @@ echo -e "\033[1;37m _________________________Finished_________________________\0
 cat subdomains | httpx -o live-subdomains;
 
 echo -e "\033[1;34m Subdomain Found: \033[0m" wc -l subdomains;
-
-
