@@ -55,6 +55,4 @@ cat s1 s2 s3 $domain.txt s4  | anew subdomains && rm -rf s1 s2 s3 $domain.txt s4
 color_progress_bar
 echo -e "\033[1;37m _________________________Finished_________________________\033[0m"
 
-cat subdomains | httpx -o live-subdomains;
-
-echo -e "\033[1;34m Subdomain Found: \033[0m" wc -l subdomains;
+cat subdomains | httpx -o live-subdomains
